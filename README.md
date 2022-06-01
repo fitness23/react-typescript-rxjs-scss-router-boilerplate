@@ -3,6 +3,8 @@ A React Typescript boilerplate with a working async example
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+All credit goes to the original repo for this = https://github.com/cabbage-cart/rxjs-react
+
 ## Available Scripts
 
 In the project directory, you can run:
